@@ -1,5 +1,14 @@
 public class ContaTerminal {
-    public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
-    }
+
+    //Atributos da Classe ContaTerminal
+
+    public int Numero;
+    public String Agencia;
+    public String NomeCliente;
+    public double Saldo;
+
+
+
+
+
 }
